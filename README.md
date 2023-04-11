@@ -13,6 +13,23 @@ This template will be return as Widget or Scaffold depend on the main function.
 
 ### DT Login
 
+<p float="left">
+    <img src="https://github.com/indratrisnar/d_template/raw/master/pic/login/dtlogin.png" alt="dtlogin" width="340">
+</p>
+
+```dart
+DTLogin(
+    edtEmail: TextEditingController(),
+    edtPassword: TextEditingController(),
+    colorInputBackground: Colors.grey[300]!,
+    btnLoginAlign: 'start',
+    btnLoginWidth: 150,
+    btnLoginOnTap: () {
+        print('login tapped');
+    },
+),
+```
+
 ## Other
 
 Support me for more feature & packages
