@@ -13,6 +13,8 @@ This template will be return as Widget or Scaffold depend on the main function.
 
 ### DT Login
 
+This template is component view not page (Scaffold)
+
 <p float="left">
     <img src="https://github.com/indratrisnar/d_template/raw/master/pic/login/dtlogin.png" alt="dtlogin" width="340">
 </p>
